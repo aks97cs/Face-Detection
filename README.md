@@ -2,7 +2,7 @@
 
 # Steps to run
 
-1. Install Python
+1. Install Python (website:-https://www.python.org/downloads/ )
 2. Run "pip install opencv-python" in your command prompt or terminal 
 3. Run "pip install opencv-contrib-python" in your command prompt or terminal
 4. Now got to your terminal and go to you directory 
